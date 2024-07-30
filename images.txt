@@ -6,4 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 
-
+# 自定义镜像
+xhofe/alist
+xiaoyaliu/alist
+gdy666/lucky
